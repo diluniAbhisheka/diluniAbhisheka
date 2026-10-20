@@ -3,7 +3,7 @@
 ### IT Undergraduate | AI & Full-Stack Development
 
 I'm pursuing a BSc (Hons) in Information Technology, specializing in
-Artificial Intelligence, at SLIIT Kandy Campus.
+Artificial Intelligence, at SLIIT Kandy UNI.
 
 I enjoy building practical applications that combine machine learning,
 backend systems, and user-friendly interfaces.
@@ -33,6 +33,8 @@ An AI-driven group project focused on inventory planning and
 personalized customer recommendations.
 
 🏆 Best Paper Award — DTechBiz 2026
+
+[Repository](https://github.com/diluniAbhisheka/supermarket-demand-forecasting.git)
 
 ## Achievements
 
