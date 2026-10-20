@@ -49,5 +49,5 @@ Generative AI, retrieval-augmented generation, and AI application development.
 
 ## Connect With Me
 
-- LinkedIn: [Your LinkedIn profile](www.linkedin.com/in/diluniabhisheka)
+- LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/diluniabhisheka/?isSelfProfile=true)
 - Email: diluni2004@gmail.com
