@@ -2,8 +2,8 @@
 
 ### IT Undergraduate | AI & Full-Stack Development
 
-I'm pursuing a BSc (Hons) in Information Technology, specializing in
-Artificial Intelligence, at SLIIT Kandy UNI.
+I'm pursuing a BSc (Hons) in Information Technology, specialising in
+Artificial Intelligence at SLIIT Kandy UNI.
 
 I enjoy building practical applications that combine machine learning,
 backend systems, and user-friendly interfaces.
@@ -30,7 +30,7 @@ integration, and automated testing with Pytest.
 
 ### Supermarket Demand Forecasting & Personalized Recommendations
 An AI-driven group project focused on inventory planning and
-personalized customer recommendations.
+personalised customer recommendations.
 
 🏆 Best Paper Award — DTechBiz 2026
 
@@ -38,7 +38,7 @@ personalized customer recommendations.
 
 ## Currently Exploring
 
-Generative AI, retrieval-augmented generation, and AI application development.
+Generative AI, AI application development, and agentic AI systems.
 
 ## Connect With Me
 
