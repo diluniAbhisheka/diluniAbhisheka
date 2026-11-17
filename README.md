@@ -36,13 +36,6 @@ personalized customer recommendations.
 
 [Repository](https://github.com/diluniAbhisheka/supermarket-demand-forecasting.git)
 
-## Achievements
-
-- Best Paper Award — DTechBiz 2026
-- 2nd Runner-Up — SLIIT Mini Hackathon 2026
-- Top 10 — Codefest Technopreneur 2026
-- Dean's List recognition
-
 ## Currently Exploring
 
 Generative AI, retrieval-augmented generation, and AI application development.
